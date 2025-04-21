@@ -1,3 +1,4 @@
+
 # 💧 Hydrosaver
 
 **Hydrosaver** is a web-based initiative developed as part of my first-year Environmental Studies project. The platform aims to raise awareness about water conservation by educating users on the causes of water wastage and promoting sustainable water usage practices.
@@ -32,10 +33,6 @@ This project was developed as part of the Environmental Studies curriculum to:
 - Explore the causes and effects of water wastage.
 - Encourage proactive measures to reduce water consumption.
 
-## 🤝 Contributing
-Contributions are welcome! If you have suggestions or enhancements, feel free to fork the repository and submit a pull request.
-
-
 ## 🚀 Getting Started
 
 To view the project locally:
@@ -43,3 +40,21 @@ To view the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Akshat073/Hydrosaver.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Hydrosaver
+   ```
+3. Open `project.html` in your preferred web browser to explore the platform.
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions or enhancements, feel free to fork the repository and submit a pull request.
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+*Developed with passion for a sustainable future.* 🌱
